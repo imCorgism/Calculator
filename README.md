@@ -1,2 +1,2 @@
 # Calculator
-JAVA
+JAVA program
